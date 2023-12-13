@@ -1,0 +1,5 @@
+Run	Condition	LibraryName	LibraryStrategy	Model	SRAStudy	BioProject	Project	LibBatch	ExpBatch	AgeGroup	Sex	Region	NTotalCells	NTotalDropletsIncluded	Tech	NExpectedDoubletRate
+SRR23615077	0	control	RNA-Seq	Illumina NovaSeq 6000	SRP424495	PRJNA938499	lemcke2023-lha-infl	NA	NA	Young	female	LHA	12051	30000	10xv3nuclei	0.0915876
+SRR23615078	0	control	RNA-Seq	Illumina NovaSeq 6000	SRP424495	PRJNA938499	lemcke2023-lha-infl	NA	NA	Young	female	LHA	12053	30000	10xv3nuclei	0.0916028
+SRR23615081	1	IAV-7dpi	RNA-Seq	Illumina NovaSeq 6000	SRP424495	PRJNA938499	lemcke2023-lha-infl	NA	NA	Young	female	LHA	11209	30000	10xv3nuclei	0.0851884
+SRR23615082	1	IAV-7dpi	RNA-Seq	Illumina NovaSeq 6000	SRP424495	PRJNA938499	lemcke2023-lha-infl	NA	NA	Young	female	LHA	11214	30000	10xv3nuclei	0.08522640000000001
